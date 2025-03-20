@@ -16,7 +16,7 @@
 
 
 
-### I'm a PhD student, Biostatistician, Cat Father, and Chinese Calligraphier!
+### I'm a Research Data Scientist, Cat Dad, and Chinese Calligraphier!
 - 🔭 I’m currently working on Functional Data Analysis, Unsupervised and Semi-supervised Learning and Fairness Machine Learning!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
